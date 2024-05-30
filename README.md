@@ -4,6 +4,8 @@ You cannot directly download a file from a GitHub README.md However, users can c
 
 This repository provides a simple-to-use AI chatbot built with React, Tailwind CSS, and OpenAI's API. It offers a flexible foundation for integrating AI chat functionalities into your React projects, including React JS and Next.js.
 
+![chatbot](https://github.com/ElvinEga/tailchat/assets/12608507/47e2e171-d9f8-417b-9bdc-efdac7b8f89f)
+
 **Features:**
 
 - **Easy Integration:** Quickly incorporate AI chat capabilities into your React applications.
