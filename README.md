@@ -9,7 +9,7 @@ This repository provides a simple-to-use AI chatbot built with React, Tailwind C
 ## Theme
 ![Screenshot from 2024-07-30 13-01-44](https://github.com/user-attachments/assets/b6fe91c9-b4b6-40fa-96c4-bf3ca875c32d)
 ## Example
-![Screenshot 2024-07-30 at 13-06-23 Expoloregeotravel](https://github.com/user-attachments/assets/4043f7de-a3d4-4d78-b415-6419d9046a92)
+![Screenshot 2024-07-30 at 13-26-18 Expoloregeotravel](https://github.com/user-attachments/assets/adb36de2-fbb0-44a2-958b-cc5682a7294a)
 
 **Features:**
 
